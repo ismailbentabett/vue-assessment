@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import { computed, defineComponent, PropType } from "@vue/composition-api";
+import { computed, defineComponent } from "@vue/composition-api";
 import { Contact } from "@/hooks/useContracts";
 
 export default defineComponent({
